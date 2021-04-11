@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WalletApp</string>
+    <string name="easiest_way_to_manage_your_wallet">Easiest Way to Manage Your Wallet</string>
+    <string name="connect_your_wallet_to_your_friends_family_brand_and_experience">Connect your wallet to your friends family brand and experience</string>
+    <string name="hello_sultan">Hello, Sultan !</string>
+    <string name="name">Name</string>
+    <string name="balance">Balance</string>
+    <string name="featured">Featured</string>
+    <string name="transfer">Transfer</string>
+    <string name="request">Request</string>
+    <string name="topup">Top up</string>
+    <string name="bill">Bill</string>
+    <string name="last_activity">Last Activity</string>
+    <string name="paypal_income">Paypal Income</string>
+    <string name="_500_egp">+500 EGP</string>
+</resources>
